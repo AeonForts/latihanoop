@@ -1,4 +1,4 @@
-Tugas OOP
+Tugas OOP (pertemuan 2)
 
 Kelompok 9
 
